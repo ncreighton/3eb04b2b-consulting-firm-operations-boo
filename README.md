@@ -24,8 +24,6 @@ Stop...
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/iheohh)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/9B6aEX26H5wg2hi33mcZu34)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://mythicalgamer2.gumroad.com/l/iheohh)
 
 ## License
 
